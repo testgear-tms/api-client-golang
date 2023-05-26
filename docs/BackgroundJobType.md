@@ -1,0 +1,31 @@
+# BackgroundJobType
+
+## Enum
+
+
+* `EXPORT_XLSX_TEST_RESULTS_BY_TEST_PLAN` (value: `"ExportXlsxTestResultsByTestPlan"`)
+
+* `EXPORT_XLSX_WORK_ITEMS_BY_PROJECT` (value: `"ExportXlsxWorkItemsByProject"`)
+
+* `EXPORT_XLSX_TEST_POINTS_BY_TEST_PLAN` (value: `"ExportXlsxTestPointsByTestPlan"`)
+
+* `EXPORT_JSON_PROJECT` (value: `"ExportJsonProject"`)
+
+* `EXPORT_ZIP_PROJECT` (value: `"ExportZipProject"`)
+
+* `EXPORT_JSON_PROJECT_WITH_TEST_PLANS` (value: `"ExportJsonProjectWithTestPlans"`)
+
+* `EXPORT_ZIP_PROJECT_WITH_TEST_PLANS` (value: `"ExportZipProjectWithTestPlans"`)
+
+* `IMPORT_JSON_PROJECT` (value: `"ImportJsonProject"`)
+
+* `IMPORT_ZIP_PROJECT` (value: `"ImportZipProject"`)
+
+* `IMPORT_XLSX_PROJECT` (value: `"ImportXlsxProject"`)
+
+* `IMPORT_TEST_RAIL_XML_PROJECT` (value: `"ImportTestRailXmlProject"`)
+
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
